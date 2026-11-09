@@ -1,6 +1,6 @@
-# 🥐 Imtiaz Bake – Online Bakery Website
+# 🥐 ImthyaxBake – Online Bakery Website
 
-Imtiaz Bake is an online bakery ordering website designed to provide customers with a simple and convenient way to explore and order their favourite bakery products online.
+ImthyaxBake is an online bakery ordering website designed to provide customers with a simple and convenient way to explore and order their favourite bakery products online.
 
 The platform showcases a variety of freshly baked products, allowing customers to browse products, explore categories, add items to their shopping cart, and enjoy a smooth online shopping experience.
 
